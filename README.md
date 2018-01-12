@@ -1,4 +1,4 @@
-![image](https://github.com/ZHShare/WXSplitViewController/blob/master/WXSplitViewController/splitVC.gi)
+![image](https://github.com/ZHShare/WXSplitViewController/blob/master/WXSplitViewController/splitVC.gif)
 
 使用注意：
 1. LeftVC 点击响应后事件是直接由主控制器MasterVC执行的
